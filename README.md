@@ -1,2 +1,2 @@
-# LandingPage-PathOrder
-Landing PagePathOrder
+# LandingPage
+El siguinte trabajo es un landing page desarrollado por el grupo VisionRekt para nuestro producto PathOrder.
